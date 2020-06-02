@@ -1,0 +1,66 @@
+body {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+#a {
+  height: 100px;
+  width: 960px;
+  background-color: aqua;
+}
+
+#b {
+  height:600px;
+  width: 200px;
+  float: left;
+  background-color: aquamarine;
+}
+
+#c {
+  width: 380px;
+  height: 200px;
+  background-color: chartreuse;
+  display: inline-block;
+}
+
+#d {
+  width: 380px;
+  height: 200px;
+  background-color: skyblue;
+  display: inline-block;
+  /* position: relative; */
+  /* float: left; */
+}
+
+#e, #f, #g, #h {
+  width: 190px;
+  height: 250px;
+  /* float: left; */
+  display: inline-block;
+  
+  
+}
+
+#e{
+  background-color: slateblue;
+}
+
+#f {
+  background-color: springgreen;
+}
+
+#g {
+  background-color: steelblue;
+}
+
+#h {
+  background-color: lavender;
+}
+
+#i {
+  width: 760px;
+  height: 150px;
+  background-color: lightblue;
+  float: left;
+}
